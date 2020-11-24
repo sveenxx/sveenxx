@@ -3,7 +3,7 @@
 📫 Contact:
 - Discord: Sveen#0001
 #
-🏢 Im working with:
+🏢 I'm working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
