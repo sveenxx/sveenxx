@@ -1,7 +1,7 @@
 ### Hi, I'm Kuba! 👋
 #
 📫 Contact:
-- Discord: Sveen#7477
+- Discord: Sveen#0001
 #
 ⚒ Languages and Tools:
 
