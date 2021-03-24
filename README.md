@@ -12,4 +12,4 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 #
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx)](https://github.com/sveenxx/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
