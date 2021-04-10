@@ -1,9 +1,10 @@
 ### Hi, I'm Kuba! 👋
 #
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
+<img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
 
 **📫 Contact:**
+
 - Discord: Sveen#0001
 
 **⚒ Languages and Tools:**
@@ -21,6 +22,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
+
+**💡 Projects:**
+
+- [SplashMC.pl](https://splashmc.pl) (Next.js)
 
 **📊 Stats:**
 
