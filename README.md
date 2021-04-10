@@ -11,8 +11,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
