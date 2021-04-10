@@ -1,10 +1,10 @@
 ### Hi, I'm Kuba! 👋
 #
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
+
 **📫 Contact:**
 - Discord: Sveen#0001
-#
-
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
 
 **⚒ Languages and Tools:**
 
@@ -22,7 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 
-#
 **📊 Stats:**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
