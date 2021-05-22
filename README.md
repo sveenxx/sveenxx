@@ -5,7 +5,7 @@
 
 **📫 Contact:**
 
-- Discord: Sveen#0001
+- Discord: Sveen#4006
 
 **⚒ Languages and Tools:**
 
