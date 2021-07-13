@@ -23,10 +23,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 
-**💡 Projects:**
-
-- [SplashMC.pl](https://splashmc.pl) (Next.js)
-
 #
 **📊 Stats:**
 
