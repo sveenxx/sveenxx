@@ -6,6 +6,8 @@
 **📫 Contact:**
 
 - Discord: Sveen#0001
+- Email: hello@codestation.pl
+- Website: codestation.pl
 
 **⚒ Languages and Tools:**
 
