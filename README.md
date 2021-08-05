@@ -1,4 +1,5 @@
 ### Hi, I'm Kuba! 👋
+![](https://komarev.com/ghpvc/?username=sveenxx&label=PROFILE+VIEWS)
 #
 
 <img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/fVexgTIrbphCB2txEk/giphy.gif" />
