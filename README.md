@@ -13,6 +13,7 @@
 **⚒ Languages and Tools:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) 
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
