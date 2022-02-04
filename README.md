@@ -6,7 +6,7 @@
 
 **📫 Contact:**
 
-- Discord: Sveen#0001
+- Discord: Sveen#0516
 - Email: hello@codestation.pl
 - Website: codestation.pl
 
