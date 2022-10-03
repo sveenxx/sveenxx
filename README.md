@@ -7,8 +7,7 @@
 **📫 Contact:**
 
 - Discord: Sveen#0516
-- Email: hello@codestation.pl
-- Website: codestation.pl
+- Website: https://capybaralab.com
 
 **⚒ Languages and Tools:**
 
