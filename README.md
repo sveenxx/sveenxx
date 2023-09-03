@@ -6,7 +6,7 @@
 
 **📫 Contact:**
 
-- Discord: Sveen#0516
+- Discord: sveenok
 - Website: https://capybaralab.com
 
 **⚒ Languages and Tools:**
