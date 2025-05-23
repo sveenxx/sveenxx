@@ -7,7 +7,6 @@
 **📫 Contact:**
 
 - Discord: sveenok
-- Website: https://capybaralab.com
 
 **⚒ Languages and Tools:**
 
